@@ -29,7 +29,7 @@
                  <td><?php echo $value->jumlah_stok; ?></td>
                  <td><?php echo $value->jenis_obat; ?> </td>
                  <td><?php echo $value->harga_obat; ?> </td>
-                 <td><?php echo $value->exp_date; ?> </td>
+                 <td><?php echo tgl_indo($value->exp_date); ?> </td>
                  <td>
            <!--     <a href="<?php //echo site_url('obat/delete_1/'.$value->id_stok);?> <!-- " class="btn btn-danger"> 
                     <i class="fa fa-trash"></i>
