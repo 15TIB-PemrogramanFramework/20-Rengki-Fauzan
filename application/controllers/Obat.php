@@ -20,9 +20,17 @@ class Obat extends CI_Controller
 			redirect('/');
 		}
 
+		
+
+		$this->load->view('Utama');
+ 	}
+
+ 	function utama(){
+ 		
+
 		$data1['obat']=$this->Obat_model->ambil_data();
 
-		$this->load->view('Utama',$data1);
+		$this->load->view('Obat/utama',$data1);
  	}
 function Ambildata_transaksi(){
 		$data1['obat']=$this->Obat_model->ambil_datatransaksi();

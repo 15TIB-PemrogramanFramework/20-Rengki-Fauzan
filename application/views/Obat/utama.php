@@ -41,7 +41,7 @@
                                         <td><?php echo $value->jumlah_stok; ?></td>
                                         <td><?php echo $value->jenis_obat; ?> </td>
                                         <td><?php echo $value->harga_obat; ?> </td>
-                                        <td><?php echo $value->exp_date; ?> </td>
+                                        <td><?php echo tgl_indo($value->exp_date); ?> </td>
                        
                                     </tr>
                                      <?php } ?>

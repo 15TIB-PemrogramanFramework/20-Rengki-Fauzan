@@ -16,7 +16,7 @@
                             <a href="'.site_url('Obat/index').'"><i class="fa fa-home fa-fw"></i> Halaman Utama</a>
                         </li>
                      <li>
-                            <a href="'.site_url('Obat/index').'"><i class="fa fa-database fa-fw"></i> Daftar Seluruh Stok</a>
+                            <a href="'.site_url('Obat/utama').'"><i class="fa fa-database fa-fw"></i> Daftar Seluruh Stok</a>
                         </li>
                         <li>
                             <a href="'.site_url('Obat/Daftar_obat').'"><i class="fa fa-medkit fa-fw"></i> Daftar Obat</a>

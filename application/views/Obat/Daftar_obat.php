@@ -4,7 +4,7 @@
             <!-- /.row -->
             <div class="row">
 <header><center>
-    <h1>Daftar Data Obat  </h1>
+    <h1>Daftar Data Obat</h1>
 </center>
 </header>
 <div id="content">
