@@ -1,0 +1,13 @@
+Nama : Rengki Fauzan
+NIM : 1555301067	
+Email : Rengki15ti@mahasiswa.pcr.ac.id
+telp : 0821 7222 6001
+
+catatan : untuk Login admin digunakan 
+
+username dan password sebagai username dan passwornya
+
+untuk user digunakan 
+íd_pustu sebagai user
+dan
+password_pustu sebagai password
